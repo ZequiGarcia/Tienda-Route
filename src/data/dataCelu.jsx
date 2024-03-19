@@ -21,6 +21,11 @@ const dataCelu = {
       precio: "$9,999.00",
       desc: "Camara bonita!",
     },
+    Huawei: {
+      modelo: "A03",
+      precio: "$125",
+      desc: "Resistente a caidas y rayaduras!!",
+    },
   };
 
   export default dataCelu;
